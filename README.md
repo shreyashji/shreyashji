@@ -53,4 +53,4 @@
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-shreyashchoudhary@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Ashreyashji](https://github.com/shreyashji)
+⭐️ From [shreyashji](https://github.com/shreyashji)
