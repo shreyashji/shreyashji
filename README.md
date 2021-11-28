@@ -1,49 +1,86 @@
-<h2> Hey there! I'm Shreyash.</h2>
+### Hi there 👋<h2> I'm Shivam</h2>
 
-<h3> &nbsp;About Me </h3>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
+
+
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science & Engineering.
-- 💼 &nbsp; Working as a Software/Data Engineer at TATA Consultancy Services (TCS).
-- 🌱 &nbsp; Learning more about Cloud ,Software,Modern Web app devlopment,frameworks,Data tools.
 
-<h3> &nbsp;Tech Stack</h3>
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | Java | C++ | C | MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+
+<!--
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+-->
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+
+<hr>
+
+
+
+<br/><br/>
+
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
 
 <br/>
 
-<a href="https://github.com/shreyashji">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyashji&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashji&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+
+<br><br>
+
+
+
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.shreyashchoudhary.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shreyashchoudhary-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shreyashchoudhary-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-shreyashchoudhary@umass.edu-blue?style=flat-square&logo=gmail"></a>
+
+<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+
+<a href="https://www.linkedin.com/in/shivam-malpani-47a379198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+
+<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 </p>
 
-⭐️ From [shreyashji](https://github.com/shreyashji)
+
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shreyashji)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+
+<hr>
