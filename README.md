@@ -12,9 +12,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | C++ | SQL | SSMS
+- 💻 &nbsp; C++ | SQL | Python | java(core)
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | TypseScript | React
 
 <!--
 - 🛢 &nbsp; MySQL | SSMS
@@ -23,5 +23,5 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Hadoop | Spark | pySpark | Scala | SparkSQL | Big Data | Kubernates | AWS | Docker🐳 
+- 🔧 &nbsp; Hadoop | Spark | pySpark | Scala | SparkSQL | Big Data | Kubernates | AWS | Docker🐳 | DevOps
 
