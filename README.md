@@ -23,8 +23,5 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Hadoop | Spark | pySpark | Scala | SparkSQL | Big Data
+- 🔧 &nbsp; Hadoop | Spark | pySpark | Scala | SparkSQL | Big Data | Kubernates | AWS | Docker🐳 
 
-<hr>
-<br>
-<hr>
