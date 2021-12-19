@@ -4,11 +4,11 @@
 
 <h3>💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new Technologies and developing Data solutions on Cloud .
 
 - 🎓 &nbsp; Studied Computer Science and Engineering from RGPV.
 
-- 🌱 &nbsp; Working on about Cloud Tech, data platform & Data Engineering.
+- 🌱 &nbsp; Working on Cloud , Building Data platform, Data Engineering, BigData.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -20,4 +20,3 @@
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; Hadoop | Spark | pySpark | Scala | SparkSQL | Big Data | Kubernates | AWS | Docker🐳 | DevOps
-
