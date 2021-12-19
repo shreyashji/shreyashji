@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3>💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
@@ -16,10 +16,6 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | TypseScript | React
 
-<!--
-- 🛢 &nbsp; MySQL | SSMS
-- 🔧 &nbsp; Git | Azure Devops
--->
 
 <h3>🛠 To Learn</h3>
 
