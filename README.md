@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp; Studied Computer Science and Engineering from RGPV.
 
-- 🌱 &nbsp; Working on Cloud , Building Data platform, Data Engineering, BigData.
+- 🌱 &nbsp; Working on Cloud, Building Data platform, Data Engineering, BigData.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -19,4 +19,4 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Hadoop | Spark | pySpark | Scala | SparkSQL | Big Data | Kubernates | AWS | Docker🐳 | DevOps
+- 🔧 &nbsp; Hadoop | pySpark | Big Data | AWS | DevOps
