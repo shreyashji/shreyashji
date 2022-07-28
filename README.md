@@ -1,22 +1,5 @@
-### Hi there 👋<h2> I'm Shreyash</h2>
+Hi There! 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+I am Shreyash Choudhary. I have more than 2 years of experience working as a Data Engineer. I build scalable pipelines for big data processing to genrate insights.
 
-<h3>💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new Technologies and developing Data solutions on Cloud .
-
-- 🎓 &nbsp; Studied Computer Science and Engineering from RGPV.
-
-- 🌱 &nbsp; Working on Cloud, Building Data platform, Data Engineering, BigData.
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; C++ | SQL | Python | java(core)
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | TypseScript | React
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; Hadoop | pySpark | Big Data | AWS | DevOps
+SKILLS: `Python` `PySpark` `Azure Cloud` `SQl` `Git` `Data Structure & Algorithm` `ETL` `Data pipeline` `Data Warehousing` 'IAAS' 'DevOps' 'Azure Data Factory' 'powerBI' 'Terraform'
