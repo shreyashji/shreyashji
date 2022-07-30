@@ -4,4 +4,4 @@ I am Shreyash Choudhary. I have more than 2 years of experience working as a Dat
 
 SKILLS: `Python` `PySpark` `Azure Cloud` `SQl` `Git` `Data Structure & Algorithm` `ETL` `Data pipeline` `Data Warehousing` `IAAS` `DevOps` `Azure Data Factory` `PowerBI` `Terraform`
 
-[![Github Gist](https://img.shields.io/badge/github-gist-lightgrey)](https://gist.github.com/shreyashji)
+
